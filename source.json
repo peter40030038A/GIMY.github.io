@@ -1338,10 +1338,10 @@
 			"urls": ["http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8"]
 		}]
 	}, {
-		"group": "日韩",
+		"group": "晴天TV-台灣,#genre#",
 		"channels": [{
-			"name": "韓國娛樂台KMTV",
-			"urls": ["rtmp://45.88.148.114/channel/60c2d183961593122ebaf8ae?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH", "http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8", "http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8"]
+			"name": "民視",
+			"urls": ["mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f]
 		}, {
 			"name": "阿里郎",
 			"urls": ["http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8", "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8", "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8"]
